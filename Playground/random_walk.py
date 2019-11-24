@@ -20,7 +20,7 @@ class RandomWalk:
 
             #Decide which direction to go and how far in that direction
             x_direction = choice([1, -1])
-            x_distance = choice([0, 1, 2, 3, 4])
+            x_distance = choice([0, 1, 2, 3, 4, 5, 6 ])
 
             x_step = x_direction * x_distance
 
