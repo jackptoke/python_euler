@@ -1,0 +1,1182 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+    "num_results": 1389,
+    "results": [
+        {
+            "url": "https://www.nytimes.com/2019/11/30/business/david-boies-pottinger-jeffrey-epstein-videos.html",
+            "adx_keywords": "Epstein, Jeffrey E (1953- );Kessler, Patrick;Boies, David;Pottinger, John Stanley;Sex Crimes;Child Abuse and Neglect;Prostitution;Human Trafficking;Video Recordings, Downloads and Streaming;#MeToo Movement;Legal Profession;High Net Worth Individuals;Extortion and Blackmail;Whistle-Blowers;Frauds and Swindling",
+            "column": null,
+            "section": "Business",
+            "byline": "By JESSICA SILVER-GREENBERG, EMILY STEEL, JACOB BERNSTEIN and DAVID ENRICH",
+            "type": "Article",
+            "title": "Jeffrey Epstein, Blackmail and a Lucrative \u2018Hot List\u2019",
+            "abstract": "A shadowy hacker claimed to have the financier\u2019s sex tapes. Two top lawyers wondered: What would the men in those videos pay to keep them secret?",
+            "published_date": "2019-11-30",
+            "source": "The New York Times",
+            "id": 100000006844524,
+            "asset_id": 100000006844524,
+            "views": 1,
+            "des_facet": [
+                "VIDEO RECORDINGS, DOWNLOADS AND STREAMING",
+                "LEGAL PROFESSION"
+            ],
+            "org_facet": [
+                "SEX CRIMES",
+                "CHILD ABUSE AND NEGLECT",
+                "PROSTITUTION",
+                "HUMAN TRAFFICKING",
+                "#METOO MOVEMENT",
+                "HIGH NET WORTH INDIVIDUALS",
+                "EXTORTION AND BLACKMAIL",
+                "WHISTLE-BLOWERS",
+                "FRAUDS AND SWINDLING"
+            ],
+            "per_facet": [
+                "EPSTEIN, JEFFREY E (1953- )",
+                "KESSLER, PATRICK",
+                "BOIES, DAVID",
+                "POTTINGER, JOHN STANLEY"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": null,
+                    "copyright": "Stephanie Diani for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/01/autossell/30hotlist-promo/_Horizontal-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/01/autossell/30hotlist-promo/_Horizontal-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/01/autossell/30hotlist-promo/_Horizontal-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/488da5b2-6476-5809-9718-6691d6cc5b65"
+        },
+        {
+            "url": "https://www.nytimes.com/interactive/2019/arts/television/best-movies-on-netflix.html",
+            "adx_keywords": "Netflix Inc;Movies;Video Recordings, Downloads and Streaming",
+            "column": "",
+            "section": "Arts",
+            "byline": "By JASON BAILEY",
+            "type": "Interactive",
+            "title": "The 50 Best Movies on Netflix Right Now",
+            "abstract": "We\u2019ve plucked out the 50 best films currently streaming on Netflix in the United States. Take a look.",
+            "published_date": "2019-03-06",
+            "source": "The New York Times",
+            "id": 100000006330108,
+            "asset_id": 100000006330108,
+            "views": 2,
+            "des_facet": [
+                "MOVIES",
+                "VIDEO RECORDINGS, DOWNLOADS AND STREAMING"
+            ],
+            "org_facet": [
+                "NETFLIX INC"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Uma Thurman in \u201cPulp Fiction.\u201d",
+                    "copyright": "Linda R. Chen/Miramax Films",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2016/06/19/watching/pulp-fiction-watching-recommendation/pulp-fiction-watching-recommendation-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2016/06/19/watching/pulp-fiction-watching-recommendation/pulp-fiction-watching-recommendation-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2016/06/19/watching/pulp-fiction-watching-recommendation/pulp-fiction-watching-recommendation-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://interactive/3769fe44-d294-5a71-8281-5220a39673bf"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/11/29/us/politics/kamala-harris-2020.html",
+            "adx_keywords": "Harris, Kamala D;Presidential Election of 2020;Democratic Party;Iowa;Primaries and Caucuses;United States Politics and Government",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By JONATHAN MARTIN, ASTEAD W. HERNDON and ALEXANDER BURNS",
+            "type": "Article",
+            "title": "How Kamala Harris\u2019s Campaign Unraveled",
+            "abstract": "Ms. Harris is the only 2020 Democrat who has fallen hard out of the top tier of candidates. She has proved to be an uneven campaigner who changes her message and tactics to little effect and has a staff torn into factions.",
+            "published_date": "2019-11-29",
+            "source": "The New York Times",
+            "id": 100000006848078,
+            "asset_id": 100000006848078,
+            "views": 3,
+            "des_facet": [
+                "PRESIDENTIAL ELECTION OF 2020"
+            ],
+            "org_facet": [
+                "DEMOCRATIC PARTY",
+                "PRIMARIES AND CAUCUSES",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "per_facet": [
+                "HARRIS, KAMALA D"
+            ],
+            "geo_facet": [
+                "IOWA"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Kamala Harris&rsquo;s abundant political skills convinced many Democrats that she had the potential to take on President Trump.",
+                    "copyright": "Daniel Acker for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/30/us/politics/30harris-jump1-alt/29harris1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/30/us/politics/30harris-jump1-alt/merlin_162352476_24d90952-c16b-4099-8860-d097259f3c74-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/30/us/politics/30harris-jump1-alt/merlin_162352476_24d90952-c16b-4099-8860-d097259f3c74-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/70bf6582-a21c-5d54-8207-6db42dccfb30"
+        },
+        {
+            "url": "https://www.nytimes.com/interactive/2019/11/19/nyregion/student-homelessness-nyc.html",
+            "adx_keywords": "Homeless Persons;Public School 188 (Manhattan, NY);Education (K-12);New York City;Education Department (NYC)",
+            "column": "",
+            "section": "New York",
+            "byline": "By ELIZA SHAPIRO and BRITTAINY NEWMAN",
+            "type": "Interactive",
+            "title": "114,000 Students in N.Y.C. Are Homeless. These Two Let Us Into Their Lives.",
+            "abstract": "The number of homeless students has swelled by 70 percent over the past decade. For Darnell and Sandy, school is the only stable place they know.",
+            "published_date": "2019-11-19",
+            "source": "The New York Times",
+            "id": 100000006823092,
+            "asset_id": 100000006823092,
+            "views": 4,
+            "des_facet": [
+                "HOMELESS PERSONS",
+                "EDUCATION (K-12)"
+            ],
+            "org_facet": [
+                "PUBLIC SCHOOL 188 (MANHATTAN, NY)",
+                "EDUCATION DEPARTMENT (NYC)"
+            ],
+            "per_facet": "",
+            "geo_facet": [
+                "NEW YORK CITY"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": null,
+                    "copyright": "Brittainy Newman/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/15/nyregion/homelessstudents-photos-slide-KV3R/homelessstudents-photos-slide-KV3R-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/15/nyregion/homelessstudents-photos-slide-KV3R/homelessstudents-photos-slide-KV3R-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/15/nyregion/homelessstudents-photos-slide-KV3R/homelessstudents-photos-slide-KV3R-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://interactive/74827fc0-4943-588e-be44-07b318ab59ad"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/12/01/world/europe/prince-charles-andrew-queen.html",
+            "adx_keywords": "Royal Families;Andrew, Duke of York;Charles, Prince of Wales;Elizabeth II, Queen of Great Britain;Great Britain",
+            "column": null,
+            "section": "World",
+            "byline": "By MARK LANDLER",
+            "type": "Article",
+            "title": "In Prince Andrew Scandal, Prince Charles Emerges as Monarch-in-Waiting",
+            "abstract": "After a public-relations debacle stirred questions about the role of Queen Elizabeth II, the Prince of Wales is asserting a newfound authority in British royal affairs.",
+            "published_date": "2019-12-01",
+            "source": "The New York Times",
+            "id": 100000006848987,
+            "asset_id": 100000006848987,
+            "views": 5,
+            "des_facet": [
+                "ROYAL FAMILIES"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "ANDREW, DUKE OF YORK",
+                "CHARLES, PRINCE OF WALES",
+                "ELIZABETH II, QUEEN OF GREAT BRITAIN"
+            ],
+            "geo_facet": [
+                "GREAT BRITAIN"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Queen Elizabeth II and Prince Charles at the state opening of Parliament in London in October.",
+                    "copyright": "Pool photo by Toby Melville",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/28/world/28Uk-queen1/28Uk-queen1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/28/world/28Uk-queen1/28Uk-queen1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/28/world/28Uk-queen1/28Uk-queen1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/da964b85-1300-5d70-af7a-af6c9588fde8"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/11/27/magazine/63-up-michael-apted.html",
+            "adx_keywords": "Children and Childhood;Television;Documentary Films and Programs;Great Britain;63 Up (Movie);Apted, Michael",
+            "column": null,
+            "section": "Magazine",
+            "byline": "By GIDEON LEWIS-KRAUS",
+            "type": "Article",
+            "title": "Does Who You Are at 7 Determine Who You Are at 63?",
+            "abstract": "In 1964, with \u201cSeven Up!\u201d Michael Apted stumbled into making what has become the most profound documentary series in the history of cinema. Fifty-five years later, the project is reaching its conclusion.",
+            "published_date": "2019-11-27",
+            "source": "The New York Times",
+            "id": 100000006838494,
+            "asset_id": 100000006838494,
+            "views": 6,
+            "des_facet": [
+                "CHILDREN AND CHILDHOOD"
+            ],
+            "org_facet": [
+                "TELEVISION",
+                "DOCUMENTARY FILMS AND PROGRAMS"
+            ],
+            "per_facet": [
+                "APTED, MICHAEL"
+            ],
+            "geo_facet": [
+                "GREAT BRITAIN"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/01/magazine/01MAG-APTEDPROMOSTILL/01MAG-APTEDPROMOSTILL-thumbStandard-v2.png",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/01/magazine/01MAG-APTEDPROMOSTILL/01MAG-APTEDPROMOSTILL-mediumThreeByTwo210-v2.png",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/01/magazine/01MAG-APTEDPROMOSTILL/01MAG-APTEDPROMOSTILL-mediumThreeByTwo440-v2.png",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/fd549a1d-cba8-5269-bf74-6faa71ebbfa8"
+        },
+        {
+            "url": "https://www.nytimes.com/interactive/2019/11/29/briefing/richard-spencer-uber-thanksgiving-news-quiz.html",
+            "adx_keywords": "",
+            "column": "",
+            "section": "Briefing",
+            "byline": "By CHRIS STANFORD, WILL DUDDING and ANNA SCHAVERIEN",
+            "type": "Interactive",
+            "title": "News Quiz: Richard Spencer, Uber, Thanksgiving",
+            "abstract": "Did you stay up to date this week?",
+            "published_date": "2019-11-29",
+            "source": "The New York Times",
+            "id": 100000006848348,
+            "asset_id": 100000006848348,
+            "views": 7,
+            "des_facet": "",
+            "org_facet": "",
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2017/11/18/us/29newsquiz-thanksgiving/xp-ThanksgivingMyths-slide-FFCL-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2017/11/18/us/29newsquiz-thanksgiving/xp-ThanksgivingMyths-slide-FFCL-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2017/11/18/us/29newsquiz-thanksgiving/xp-ThanksgivingMyths-slide-FFCL-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://interactive/8a99033a-5951-5076-81bf-b27acc1a2e80"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/11/27/nyregion/hull-o-farm-catskills.html",
+            "adx_keywords": "Agriculture and Farming;Hull-O Farms (Durham, NY);Catskills (NYS Area);Family Business;Pensions and Retirement Plans",
+            "column": null,
+            "section": "New York",
+            "byline": "By COREY KILGANNON",
+            "type": "Article",
+            "title": "After 240 Years and 7 Generations, Forced to Sell the Family Farm",
+            "abstract": "The aging owners of a Catskills farm say it \u201chas to close so we can survive.\u201d",
+            "published_date": "2019-11-27",
+            "source": "The New York Times",
+            "id": 100000006832232,
+            "asset_id": 100000006832232,
+            "views": 8,
+            "des_facet": [
+                "AGRICULTURE AND FARMING"
+            ],
+            "org_facet": [
+                "HULL-O FARMS (DURHAM, NY)",
+                "FAMILY BUSINESS",
+                "PENSIONS AND RETIREMENT PLANS"
+            ],
+            "per_facet": "",
+            "geo_facet": [
+                "CATSKILLS (NYS AREA)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Seven generations of Frank Hull&rsquo;s family have lived and been buried on their farm in Durham, N.Y.",
+                    "copyright": "Sara Naomi Lewkowicz for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/28/nyregion/28NYFARM-A1/26nyfarm1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/28/nyregion/28NYFARM-A1/26nyfarm1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/28/nyregion/28NYFARM-A1/26nyfarm1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/713ed717-5920-5223-a5fa-c7d43b0b4ea1"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/11/30/business/amazon-baltimore.html",
+            "adx_keywords": "Amazon.com Inc;Baltimore (Md);Bezos, Jeffrey P;Cloud Computing;Delivery Services;E-Commerce;Robots and Robotics;Book Trade and Publishing;Baltimore-Washington International Thurgood Marshall Airport (Md);Fedex Corporation;Johns Hopkins University",
+            "column": null,
+            "section": "Business",
+            "byline": "By SCOTT SHANE",
+            "type": "Article",
+            "title": "Prime Mover: How Amazon Wove Itself Into the Life of an American City",
+            "abstract": "For most people, it\u2019s the click that brings a package to their door. But a look at Baltimore shows how Amazon may now reach into Americans\u2019 daily existence in more ways than any corporation in history.",
+            "published_date": "2019-11-30",
+            "source": "The New York Times",
+            "id": 100000006836803,
+            "asset_id": 100000006836803,
+            "views": 9,
+            "des_facet": [
+                "CLOUD COMPUTING",
+                "DELIVERY SERVICES"
+            ],
+            "org_facet": [
+                "AMAZON.COM INC",
+                "E-COMMERCE",
+                "ROBOTS AND ROBOTICS",
+                "BOOK TRADE AND PUBLISHING",
+                "BALTIMORE-WASHINGTON INTERNATIONAL THURGOOD MARSHALL AIRPORT (MD)",
+                "FEDEX CORPORATION",
+                "JOHNS HOPKINS UNIVERSITY"
+            ],
+            "per_facet": [
+                "BEZOS, JEFFREY P"
+            ],
+            "geo_facet": [
+                "BALTIMORE (MD)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Inner Harbor in Baltimore. Many shops in the district are struggling, and online retailers like Amazon are a factor.",
+                    "copyright": "Gabriella Demczuk for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/25/multimedia/00baltimore-skyline/00baltimore-skyline-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/25/multimedia/00baltimore-skyline/00baltimore-skyline-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/25/multimedia/00baltimore-skyline/00baltimore-skyline-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/6180e9fb-b80d-5a09-b932-c0670c37c6d7"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/11/30/us/politics/trump-seals-eddie-gallagher.html",
+            "adx_keywords": "Trump, Donald J;Gallagher, Edward (1979- );United States Navy;Navy Seals;Iraq War (2003-11);War Crimes, Genocide and Crimes Against Humanity;Civilian Casualties;Islamic State in Iraq and Syria (ISIS);Spencer, Richard V;United States Defense and Military Forces;United States Politics and Government",
+            "column": "DECISION POINTS",
+            "section": "U.S.",
+            "byline": "By DAVE PHILIPPS, PETER BAKER, MAGGIE HABERMAN and HELENE COOPER",
+            "type": "Article",
+            "title": "Trump\u2019s Intervention in SEALs Case Tests Pentagon\u2019s Tolerance",
+            "abstract": "Chief Petty Officer Edward Gallagher\u2019s case pits a Pentagon hierarchy committed to enforcing longstanding rules of combat against a commander in chief with no military experience but a finely honed sense of grievance against authority.",
+            "published_date": "2019-11-30",
+            "source": "The New York Times",
+            "id": 100000006851854,
+            "asset_id": 100000006851854,
+            "views": 10,
+            "des_facet": [
+                "WAR CRIMES, GENOCIDE AND CRIMES AGAINST HUMANITY",
+                "UNITED STATES DEFENSE AND MILITARY FORCES"
+            ],
+            "org_facet": [
+                "UNITED STATES NAVY",
+                "NAVY SEALS",
+                "IRAQ WAR (2003-11)",
+                "CIVILIAN CASUALTIES",
+                "ISLAMIC STATE IN IRAQ AND SYRIA (ISIS)",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J",
+                "GALLAGHER, EDWARD (1979- )",
+                "SPENCER, RICHARD V"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump in Afghanistan over Thanksgiving. The case of Chief Petty Officer Edward Gallagher offers a lesson in how Mr. Trump presides over the armed forces three years after taking office.",
+                    "copyright": "Erin Schaff/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/30/us/30TRUMPMILITARY-trumpalt/30TRUMPMILITARY-trumpalt-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/30/us/30TRUMPMILITARY-trumpalt/30TRUMPMILITARY-trumpalt-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/30/us/30TRUMPMILITARY-trumpalt/30TRUMPMILITARY-trumpalt-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/5d107c4c-83e3-5b80-8445-cd8adf008463"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/11/29/opinion/britain-election-disinformation-johnson.html",
+            "adx_keywords": "Great Britain;Elections;Rumors and Misinformation;Social Media;Conservative Party (Great Britain);Johnson, Boris",
+            "column": null,
+            "section": "Opinion",
+            "byline": "By PETER GEOGHEGAN and MARY FITZGERALD",
+            "type": "Article",
+            "title": "Britain\u2019s Dirty Election",
+            "abstract": "A serial liar. A campaign of online disinformation. The risk of foreign meddling. Sound familiar?",
+            "published_date": "2019-11-29",
+            "source": "The New York Times",
+            "id": 100000006850565,
+            "asset_id": 100000006850565,
+            "views": 11,
+            "des_facet": [
+                "ELECTIONS",
+                "RUMORS AND MISINFORMATION",
+                "SOCIAL MEDIA"
+            ],
+            "org_facet": [
+                "CONSERVATIVE PARTY (GREAT BRITAIN)"
+            ],
+            "per_facet": [
+                "JOHNSON, BORIS"
+            ],
+            "geo_facet": [
+                "GREAT BRITAIN"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Boris Johnson arrives for the Conservative Party\u2019s manifesto launch in Telford, Britain, on Sunday.",
+                    "copyright": "Phil Noble/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/29/opinion/29geoghegan1/29geoghegan1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/29/opinion/29geoghegan1/29geoghegan1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/29/opinion/29geoghegan1/29geoghegan1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/82766bd2-d2f2-562f-be34-678adf9c659e"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/11/30/opinion/sunday/bernie-sanders.html",
+            "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Polls and Public Opinion;Sanders, Bernard;Warren, Elizabeth;Buttigieg, Pete (1982- )",
+            "column": null,
+            "section": "Opinion",
+            "byline": "By ROSS DOUTHAT",
+            "type": "Article",
+            "title": "The Case for Bernie",
+            "abstract": "The Democrats need a unifier. It could be the Vermont Socialist.",
+            "published_date": "2019-11-30",
+            "source": "The New York Times",
+            "id": 100000006849516,
+            "asset_id": 100000006849516,
+            "views": 12,
+            "des_facet": [
+                "PRESIDENTIAL ELECTION OF 2020",
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "POLLS AND PUBLIC OPINION"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "SANDERS, BERNARD",
+                "WARREN, ELIZABETH",
+                "BUTTIGIEG, PETE (1982- )"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Bernie Sanders at an October campaign rally in Queens.",
+                    "copyright": "Christopher Lee for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/01/opinion/01Douthat/01Douthat-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/01/opinion/01Douthat/merlin_163025028_8d78eca3-2d1a-4f5c-9423-f26e0a2f990b-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/01/opinion/01Douthat/merlin_163025028_8d78eca3-2d1a-4f5c-9423-f26e0a2f990b-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/87e9d28a-2cea-5ed5-bbe8-e2d007a69bbc"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/11/28/world/australia/china-spying-wang-liqiang-nick-zhao.html",
+            "adx_keywords": "Politics and Government;Espionage and Intelligence Services;International Relations;Australia;Canberra (Australia)",
+            "column": "News analysis",
+            "section": "World",
+            "byline": "By DAMIEN CAVE and JAMIE TARABAY",
+            "type": "Article",
+            "title": "Suddenly, the Chinese Threat to Australia Seems Very Real",
+            "abstract": "After a businessman said Chinese agents sought to implant him in Parliament, that revelation and other espionage cases have finally signaled the end of a \u201clet\u2019s get rich together\u201d era.",
+            "published_date": "2019-11-28",
+            "source": "The New York Times",
+            "id": 100000006850082,
+            "asset_id": 100000006850082,
+            "views": 13,
+            "des_facet": [
+                "POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "ESPIONAGE AND INTELLIGENCE SERVICES",
+                "INTERNATIONAL RELATIONS"
+            ],
+            "per_facet": "",
+            "geo_facet": [
+                "AUSTRALIA",
+                "CANBERRA (AUSTRALIA)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Chinese tourists taking photographs outside Parliament House in Canberra, Australia, in January.",
+                    "copyright": "Matthew Abbott for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/28/world/28oz-china1/28oz-china1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/28/world/28oz-china1/28oz-china1-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/28/world/28oz-china1/28oz-china1-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/14b14241-ca46-5935-acee-be4294e49e1a"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/11/24/movies/best-movies-2010s-decade.html",
+            "adx_keywords": "Movies;Two Thousand Tens (Decade);13TH (Movie);American Sniper (Movie);A Touch of Sin (Movie);Blackfish (Movie);Boyhood (Movie);Bridesmaids (Movie);Frozen (Play);Get Out (Movie);In Jackson Heights (Movie);Mad Max: Fury Road (Movie);Moonlight (Movie);No Home Movie (Movie);Okja (Movie);Star Wars: The Force Awakens (Movie);The Assassin (Movie);The Avengers (Movie);The Hunger Games: Catching Fire (Movie)",
+            "column": "THE DECADE IN CULTURE",
+            "section": "Movies",
+            "byline": "By MANOHLA DARGIS and A.O. SCOTT",
+            "type": "Article",
+            "title": "The 10 Most Influential Films of the Decade (and 20 Other Favorites)",
+            "abstract": "Our co-chief film critics say these were the films of the 2010s that made a difference in the world of entertainment and beyond.",
+            "published_date": "2019-11-24",
+            "source": "The New York Times",
+            "id": 100000006832018,
+            "asset_id": 100000006832018,
+            "views": 14,
+            "des_facet": [
+                "MOVIES",
+                "TWO THOUSAND TENS (DECADE)"
+            ],
+            "org_facet": "",
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From the documentary \u201cBlackfish\u201d to the animated film \u201cFrozen,\u201d these films shaped entertainment and beyond.",
+                    "copyright": "Clockwise: Magnolia Pictures; David Bornfriend/A24, via Associated Press; Disney/Lucasfilm; Disney; Suzanne Hanover/Universal Pictures, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/25/arts/25-decadefilms-grid/25-decadefilms-grid-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/25/arts/25-decadefilms-grid/25-decadefilms-grid-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/25/arts/25-decadefilms-grid/25-decadefilms-grid-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/7fb8adea-c59f-5c81-8d29-6290bb91aaa5"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/11/29/us/teacher-trump-tweets-reinstated.html",
+            "adx_keywords": "Fort Worth (Tex);Clark, Georgia (Fort Worth, Tex, Teacher);Teachers and School Employees;Hispanic-Americans;Discrimination;Education (K-12);Twitter;Trump, Donald J;United States Politics and Government",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By MIHIR ZAVERI",
+            "type": "Article",
+            "title": "Teacher Fired After Asking Trump to \u2018Remove\u2019 Immigrants Wins Her Appeal",
+            "abstract": "A Texas state agency ruled in favor of the teacher after an independent examiner said tweets she sent to the president were free speech.",
+            "published_date": "2019-11-29",
+            "source": "The New York Times",
+            "id": 100000006850996,
+            "asset_id": 100000006850996,
+            "views": 15,
+            "des_facet": [
+                "DISCRIMINATION",
+                "EDUCATION (K-12)"
+            ],
+            "org_facet": [
+                "TEACHERS AND SCHOOL EMPLOYEES",
+                "HISPANIC-AMERICANS",
+                "TWITTER",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "per_facet": [
+                "CLARK, GEORGIA (FORT WORTH, TEX, TEACHER)",
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": [
+                "FORT WORTH (TEX)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Georgia Clark, a former high school English teacher in Fort Worth.",
+                    "copyright": "Fort Worth ISD, via KTVT",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/28/multimedia/28xp-teacher/merlin_155982585_45b6d999-00a7-4299-a2ef-8dd2934d6674-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/28/multimedia/28xp-teacher/merlin_155982585_45b6d999-00a7-4299-a2ef-8dd2934d6674-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/28/multimedia/28xp-teacher/merlin_155982585_45b6d999-00a7-4299-a2ef-8dd2934d6674-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/97fa47d7-cf32-5683-8519-aa8ad7be833b"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/11/30/us/politics/pennsylvania-voting-machines.html",
+            "adx_keywords": "Voting Machines;Elections;Computer Security;Northampton County (Pa);Election Systems and Software;Pennsylvania;Philadelphia (Pa);Elections, Courts and the Judiciary",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By NICK CORASANITI",
+            "type": "Article",
+            "title": "A Pennsylvania County\u2019s Election Day Nightmare Underscores Voting Machine Concerns",
+            "abstract": "How \u201ceverything went wrong\u201d in Northampton County.",
+            "published_date": "2019-11-30",
+            "source": "The New York Times",
+            "id": 100000006844268,
+            "asset_id": 100000006844268,
+            "views": 16,
+            "des_facet": [
+                "VOTING MACHINES",
+                "ELECTIONS",
+                "COMPUTER SECURITY",
+                "ELECTIONS, COURTS AND THE JUDICIARY"
+            ],
+            "org_facet": [
+                "ELECTION SYSTEMS AND SOFTWARE"
+            ],
+            "per_facet": "",
+            "geo_facet": [
+                "NORTHAMPTON COUNTY (PA)",
+                "PENNSYLVANIA",
+                "PHILADELPHIA (PA)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The ExpressVoteXL is a luxury \u201cone-stop\u201d voting system that combines a 32-inch touch screen and a paper ballot printer.",
+                    "copyright": "Mark Makela for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/29/us/politics/29votingmachines-01/29votingmachines-01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/29/us/politics/29votingmachines-01/merlin_165091683_5b6e365e-0cdf-444c-b458-63152bdbad76-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/29/us/politics/29votingmachines-01/merlin_165091683_5b6e365e-0cdf-444c-b458-63152bdbad76-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/1ff6dafc-8228-5145-b02a-bbc338bba5b5"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/11/29/style/the-clout.html",
+            "adx_keywords": "Teenagers and Adolescence;Social Media;Computers and the Internet;Mobile Applications;Instagram Inc;Discord Inc;your-feed-selfcare;your-feed-internet-culture",
+            "column": null,
+            "section": "Style",
+            "byline": "By TAYLOR LORENZ",
+            "type": "Article",
+            "title": "Here\u2019s What\u2019s Happening in the American Teenage Bedroom",
+            "abstract": "Rowan Winch is 15. He\u2019s a businessman.",
+            "published_date": "2019-11-29",
+            "source": "The New York Times",
+            "id": 100000006748311,
+            "asset_id": 100000006748311,
+            "views": 17,
+            "des_facet": [
+                "SOCIAL MEDIA",
+                "COMPUTERS AND THE INTERNET",
+                "MOBILE APPLICATIONS",
+                "YOUR-FEED-SELFCARE",
+                "YOUR-FEED-INTERNET-CULTURE"
+            ],
+            "org_facet": [
+                "TEENAGERS AND ADOLESCENCE",
+                "INSTAGRAM INC",
+                "DISCORD INC"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eva O'Leary for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/19/fashion/19ROWAN-PROMO/19ROWAN-PROMO-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/19/fashion/19ROWAN-PROMO/19ROWAN-PROMO-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/19/fashion/19ROWAN-PROMO/19ROWAN-PROMO-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/689631e1-3623-5d2d-b450-f3ac2aac4e5f"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/11/30/world/americas/amazon-fires-dicaprio-bolsonaro.html",
+            "adx_keywords": "Brazil;Bolsonaro, Jair (1955- );Politics and Government;Corruption (Institutional);Wildfires;Amazon Jungle;DiCaprio, Leonardo;Environment;World Wildlife Fund;Amazon River Basin",
+            "column": null,
+            "section": "World",
+            "byline": "By REUTERS",
+            "type": "Article",
+            "title": "Brazil\u2019s Leader Falsely Blames Leonardo DiCaprio for Amazon Fires",
+            "abstract": "President Jair Bolsonaro falsely claimed that the actor had financed the fires, his latest broadside to shift blame.",
+            "published_date": "2019-11-30",
+            "source": "The New York Times",
+            "id": 100000006852218,
+            "asset_id": 100000006852218,
+            "views": 18,
+            "des_facet": [
+                "CORRUPTION (INSTITUTIONAL)",
+                "WILDFIRES"
+            ],
+            "org_facet": [
+                "POLITICS AND GOVERNMENT",
+                "ENVIRONMENT",
+                "WORLD WILDLIFE FUND"
+            ],
+            "per_facet": [
+                "BOLSONARO, JAIR (1955- )",
+                "DICAPRIO, LEONARDO"
+            ],
+            "geo_facet": [
+                "BRAZIL",
+                "AMAZON JUNGLE",
+                "AMAZON RIVER BASIN"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Smoke rising from forest fires in Rond\u00f4nia state, in the Amazon basin in Brazil, in August. President Jair Bolsonaro has repeatedly lashed out in response to international criticism over such fires.",
+                    "copyright": "Victor Moriyama for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/30/reader-center/30brazil-2/30brazil-2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/30/reader-center/30brazil-2/merlin_160490655_08cfce5e-ac00-4b27-af14-ac75b734cd5f-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/30/reader-center/30brazil-2/merlin_160490655_08cfce5e-ac00-4b27-af14-ac75b734cd5f-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/1ae9ee2d-762e-515a-abf6-a30173646eef"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/11/25/health/medical-school-cost-diversity.html",
+            "adx_keywords": "Medical Schools;Income Inequality;Careers and Professions;Medical College Admission Test (MCAT);Prices (Fares, Fees and Rates);Tuition;your-feed-science;your-feed-healthcare;National Board of Medical Examiners;Princeton Review;Race and Ethnicity",
+            "column": null,
+            "section": "Health",
+            "byline": "By EMMA GOLDBERG",
+            "type": "Article",
+            "title": "\u2018I Have a Ph.D. in Not Having Money\u2019",
+            "abstract": "Medical school is expensive for everyone. But for low-income students, the hidden costs can be prohibitive.",
+            "published_date": "2019-11-25",
+            "source": "The New York Times",
+            "id": 100000006809239,
+            "asset_id": 100000006809239,
+            "views": 19,
+            "des_facet": [
+                "INCOME INEQUALITY",
+                "YOUR-FEED-SCIENCE",
+                "YOUR-FEED-HEALTHCARE",
+                "RACE AND ETHNICITY"
+            ],
+            "org_facet": [
+                "MEDICAL SCHOOLS",
+                "CAREERS AND PROFESSIONS",
+                "MEDICAL COLLEGE ADMISSION TEST (MCAT)",
+                "PRICES (FARES, FEES AND RATES)",
+                "TUITION",
+                "NATIONAL BOARD OF MEDICAL EXAMINERS",
+                "PRINCETON REVIEW"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "David Velasquez, a third-year medical student at Harvard University, said he had $4.80 left in his bank account after signing up for the MCAT test prep.",
+                    "copyright": "Kayana Szymczak for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/26/science/00SCI-MEDSCHOOLS1b/00SCI-MEDSCHOOLS1b-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/26/science/00SCI-MEDSCHOOLS1b/00SCI-MEDSCHOOLS1b-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/26/science/00SCI-MEDSCHOOLS1b/00SCI-MEDSCHOOLS1b-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/7121d4d4-732f-54e5-974c-ffabd392e051"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/11/22/world/asia/the-jungle-prince-of-delhi.html",
+            "adx_keywords": "India;Royal Families;News and News Media;Delhi (India);Cyrus, Prince of Oudh;Pakistan;Oudh Family (Delhi, India)",
+            "column": null,
+            "section": "World",
+            "byline": "",
+            "type": "Article",
+            "title": "The Jungle Prince of Delhi",
+            "abstract": "For 40 years, journalists chronicled the eccentric royal family of Oudh, deposed aristocrats who lived in a ruined palace in the Indian capital. It was a tragic, astonishing story. But was it true?",
+            "published_date": "2019-11-22",
+            "source": "The New York Times",
+            "id": 100000006823322,
+            "asset_id": 100000006823322,
+            "views": 20,
+            "des_facet": [
+                "NEWS AND NEWS MEDIA"
+            ],
+            "org_facet": [
+                "ROYAL FAMILIES"
+            ],
+            "per_facet": [
+                "CYRUS, PRINCE OF OUDH"
+            ],
+            "geo_facet": [
+                "INDIA",
+                "DELHI (INDIA)",
+                "PAKISTAN"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prince Cyrus, Princess Sakina and a servant in 1998 on the roof of the Malcha Mahal. They called their mother \u201cYour Highness,\u201d and when she died, they embalmed her body themselves.",
+                    "copyright": "Barry Bearak/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/22/world/xxcyrus4/xxcyrus4-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/22/world/xxcyrus4/xxcyrus4-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/22/world/xxcyrus4/xxcyrus4-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/03990cb5-2e65-5696-a899-fe83901731ac"
+        }
+    ]
+}
